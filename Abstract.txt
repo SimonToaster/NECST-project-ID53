@@ -1,0 +1,13 @@
+ID53: Blend Art and Data to Empower Habits Tracking
+Abstract: Professionals of the health sectors ranging from nutritionists to sleep researchers suggest using diaries to keep
+track of daily habits as a means to develop awareness, create accountability, and generate a sense of accomplishment.
+While useful in these directions, diaries end up containing a considerable amount of information that users either never
+look through or must analyze manually and in raw format.
+
+In this project, you are going to develop a tool to help in the analysis and the visualization of the data stored in a sleep diary.
+You are going to be provided with a sample sleep diary, and your tool should be able to process other files in the same format.
+You are expected to deliver a git repository containing the code, a README with clear and complete instructions on how to use the software, 
+and a 4-page PDF report detailing scope, purpose, state-of-the-art, results, and the appropriate references. 
+You are required to preserve the whole history of the git repository.
+
+Keywords: data visualization, personal diary, habits tracking, Web App development
